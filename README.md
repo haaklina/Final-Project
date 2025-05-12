@@ -12,7 +12,12 @@ With respect to taxonomic distribution luminescent species categorized into Chor
 
 # Aim and Hypthesis
 
+This research is a thorough review of bioluminescent symbioses between marine organisms, specifically in relation to cephalopods and fish with bacterial symbionts. In addition, the bioluminescent symbiosis plays a significant role in biomedical science. While symbiont relationships interacting between vertebrates (e.g. sharks/fishes) and invertebrates (e.g. squids) which remains understudied in response to phylogenetic analysis of cephalopods in order to understanding the food web dynamics and future climate. In order to address this problem statement, methods will be relevance systematic literature searches, and comparative analysis of luminescence mechanisms and symbiotic interactions. Therefore, it studies existing primary literatures to investigate characteristics in host-specificity, bacterial colonization such as Vibro sp., and the ecological roles of bioluminescent fish and key cephalopods species for instance ram’s horn squid and vampire squid, and interaction between invertebrates, particularly crustaceans and vertebrates e.g. sharks. The study further examines the environmental and evolutionary variables influencing bioluminescent symbioses, in response to the impact of climate change and anthropogenic disturbances on these relationships (Otjacques et al., 2023). By integrating findings from these studies, the goal of this research is to identify knowledge gaps and propose future research directions. It also emphasizing in understanding the effects of environmental stressors on bioluminescent processes and their ecological significance.
+![image](https://github.com/user-attachments/assets/dc88de91-85c9-4f24-8187-811e7a52c92d)
+
 # Brief Description of Dataset
+
+
 
 
 
