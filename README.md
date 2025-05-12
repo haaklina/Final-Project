@@ -1,6 +1,6 @@
 # Title: Bioluminescent symbioses of fish and cephalopods with bacterial symbionts.
 
-1.Introduction
+## 1.Introduction
 
 Include how many organisms are bioluminescent and why.
 
