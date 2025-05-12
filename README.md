@@ -10,3 +10,9 @@ With respect to taxonomic distribution luminescent species categorized into Chor
 
 ![image](https://github.com/user-attachments/assets/f495f121-c6d0-4f17-aa5c-10dc71d6811b)
 
+# Aim and Hypthesis
+
+# Brief Description of Dataset
+
+
+
