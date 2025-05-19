@@ -10,11 +10,7 @@ Logistic model: Host phylogeny + habitat → symbiont type (AIC = 124.6).
 
 ## Title: Bioluminescent symbioses of fish and cephalopods with bacterial symbionts.
 
-
-## Brief description of dataset (with a link to completed GitHub repository for more details on my dataset card).
-
-https://github.com/haaklina/Final-Project/blob/main/Dataset%20Card.md
-
+### Bioluminescent groups are Ostracoda_bioluminescent, *Leiognathidae* (Ponyfish), *Euprymna_scolopes* (Squid), and *Anomalops_katoptron* (Flashlight fish). Non-luminous groups are included for contrast as sister taxa. So the codes have generated Phylogenetic Tree Bioluminescent and Non-luminous Marine Taxa.
 
 ```{r}
 options(repos = c(CRAN = "https://cran.rstudio.com"))
@@ -25,8 +21,6 @@ options(repos = c(CRAN = "https://cran.rstudio.com"))
 install.packages("ape")   # only if not already installed
 library(ape)
 ```
-
-
 ```{r}
 # Install and load ape package
 install.packages("ape")  # Run only once
@@ -46,7 +40,6 @@ plot(biolum_tree,
 # Optional: add tip labels with nice formatting
 tiplabels(pch = 19, col = "blue", cex = 0.5)
 ```
-Bioluminescent groups are Ostracoda_bioluminescent, *Leiognathidae* (Ponyfish), *Euprymna_scolopes* (Squid), and *Anomalops_katoptron* (Flashlight fish). Non-luminous groups are included for contrast as sister taxa.
 
 # Simulated Dataset Structure Example
 
