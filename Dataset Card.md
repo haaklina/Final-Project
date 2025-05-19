@@ -35,29 +35,11 @@ sequences.fasta: Contains around 600bais pairs (bp) gene sequences different tun
 | Species Characteristics  | Euprymna scolopes (squid)  | Leiognathids (Fishes)   | Sources |
 |---|---|---|---|
 | **Symbiont** | *Vibrio fischeri* | *Photbacterium leiognathi* | Dunlap et al., 2008; Heath-Heckman et al., 2013 |
-| *Styela plicata* | 624 bp DNA, COX1* gene | Solitary | Gao et al. 2023; Ramesh et al. 2021 |
-| *Synoicum kincaidi* | 658 bp DNA, COX1 gene | Colonial | https://seanet.stanford.edu/Urochordata |
-| *Ciona intestinalis* | 786 bp DNA, COX1 gene | Solitary | Wilson et al. 2022; Ramesh et al. 2021. |
-| *Boltenia villosa* | 658 bp DNA, CO1 gene | Solitary | https://seanet.stanford.edu/Urochordata |
-| *Distaplia occidentalis* | 658 bp DNA, COX1 gene | Colonial | https://seanet.stanford.edu/Urochordata |
-| *Ascidia ceratodes* | 845 bp DNA, COX1 gene | Solitary | Solitary
-| *Diplosoma listerianum* | 531 bp DNA, CO1 gene | Colonial | https://seanet.stanford.edu/Urochordata |
-| *Cnemidocarpa finmarkiensis* | 658 bp DNA, COI gene | Solitary | https://seanet.stanford.edu/Urochordata |
-| *Ciona robusta* | 626 bp DNA, COX1 gene | Solitary | Wilson et al. 2022 |
-| *Ciona edwardsi* | 737 bp DNA, CO1 gene | Solitary | Ciona wiki |
-| *Ciona roulei* | 744 bp DNA, CO1 gene | Solitary | Ciona wiki |
-| *Ciona sp.* | 583 bp DNA, p. cox3 gene | Solitary | Ciona wiki |
-| *Styela montereyensis* | 580 bp DNA, CO1 gene | Solitary | Gao et al. 2023 |
-| *Pyura haustor* | 658 bp DNA, CO1 gene | Solitary | Gao et al. 2023 |
-| *Halocynthia igaboja* | 708 bp DNA, COX1 gene | Solitary | Ciona wiki |
-| *Sigillina signifera* | 759 bp DNA, COX1 gene | Solitary | Ramesh et al. 2021 |
-| *Phallusia nigra* | 606 bp DNA, COX1 gene | Solitary | Ramesh et al. 2021 |
-| *Polycarpa pomaria* | 617 bp DNA, CO1 gene | Solitary | Gao et al. 2023 |
-| *Halocynthia aurantium*| 658 bp DNA, COX1 gene | Solitary | Gao et al. 2023; Ramesh et al. 2021 |
-
-
-COX1* cytochorme c oxidase subunit I gene.
-CO1* cytochrome oxidase subunit 1.
+| **Light organ** | Ventral crypt-based | Ventral/sub-orbital shutters | Dunlap & Nakamura, 2011; Nyholm & McFall-Ngai, 2021 |
+| **Acquisition** | Environmental or horizontal | Environmental and Horizontal | Yount et al., 2023; Dunlap et al., 2008 |
+| **Function** | Counterillumination campuflage | Communication, Mating, Camouflage | Jones & Nishiguchi, 2004; Hellinger et al., 2017 |
+| **Regulation** | Quorum sensing and host expulsion | Quorum sensing and muscular shutter | Wier et al., 2010; Lupp & Ruby, 2005 |
+| **Sexual dimorphism** | None reported | Common in males, enlarged light organs, transparent flanks | Sparks et al., 2005 |
 
 ## Preprocessing and Data Formatting
 I downloaded all the genomes as fasta files and renamed them to include the genus and species in the file names including population's name.
