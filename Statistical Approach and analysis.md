@@ -42,5 +42,36 @@ tiplabels(pch = 19, col = "blue", cex = 0.5)
 ![image](https://github.com/user-attachments/assets/967a1055-3d5f-45da-9c68-b3faa61ec9d1)
 Figure. 1 explanation: Bioluminescent groups are Ostracoda_bioluminescent, *Leiognathidae* (Ponyfish), *Euprymna_scolopes* (Squid), and *Anomalops_katoptron* (Flashlight fish). Non-luminous groups are included for contrast as sister taxa.
 
+## Simulated Dataset Structure Example
+
+```{r}
+# Simulate example data
+set.seed(42)
+n <- 60
+```
+```{r}
+data <- data.frame(
+  species = paste("Species", 1:n),
+  clade = sample(c("Cephalopod", "Fish", "Ostracod"), n, replace = TRUE),
+  acquisition = sample(c(0, 1), n, replace = TRUE), # 1 = acquired symbiont
+  light_organ_complexity = sample(1:5, n, replace = TRUE),
+  transmission = sample(c("vertical", "horizontal"), n, replace = TRUE)
+)
+
+head(data)
+```
+
+## Logistic Regression: Predict Symbiont Acquisition
+
+```{r}
+# Predict acquisition based on clade and complexity
+log_model <- glm(acquisition ~ clade + light_organ_complexity, data = data, family = "binomial")
+summary(log_model)
+```
+
+## ANOVA: Compare Light Organ Complexity Across Clades
+
+
+
 
 
