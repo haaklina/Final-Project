@@ -11,3 +11,6 @@ This research is a thorough review of bioluminescent symbioses between marine or
 ## Brief description of your dataset (with a link to your completed GitHub repository for more details on your dataset card).
 Link: https://github.com/haaklina/Final-Project/blob/main/Dataset%20Card.md
 
+## Statistical approach (with a link to your completed GitHub repository)
+
+
