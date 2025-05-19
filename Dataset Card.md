@@ -27,7 +27,7 @@ File Formats: .fasta for gene sequences, .nexus for phylogenetic tree generation
 sequences.fasta: Contains around 600bais pairs (bp) gene sequences different tunicate species (demo species collected: source: https://seanet.stanford.edu/Urochordata) in FASTA format.
 
 ## Documentation for Source Datasets
-### Comparative Features of Bioluminescent Symbiosis in Euprymna scolopes and Leiognathid Fishes.
+### Comparative Features of Bioluminescent Symbiosis in *Euprymna scolopes* and *Leiognathid* Fishes.
 
 
 | Species Characteristics  | *Euprymna scolopes* (squid)  | *Leiognathids* (Fishes)   | Sources |
