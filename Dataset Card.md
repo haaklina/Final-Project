@@ -2,23 +2,23 @@
 Bioluminescent symbioses of fish and cephalopods with bacterial symbionts.
 
 ## Dataset citation and DOI:
-Dunlap, P. V., Davis, K. M., Tomiyama, S., Fujino, M., & Fukui, A. (2008). Developmental and microbiological analysis of the inception of bioluminescent symbiosis in the marine fish Nuchequula nuchalis (Perciformes: Leiognathidae). Applied and environmental microbiology, 74(24), 7471-7481.
+Dunlap, P. V., Davis, K. M., Tomiyama, S., Fujino, M., & Fukui, A. (2008). Developmental and microbiological analysis of the inception of bioluminescent symbiosis in the marine fish Nuchequula nuchalis (*Perciformes: Leiognathidae*). *Applied and environmental microbiology*, *74*(24), 7471-7481.
 
-Jones, B. W., & Nishiguchi, M. K. (2004). Counterillumination in the hawaiian bobtail squid, Euprymna scolopes Berry (Mollusca: Cephalopoda). Marine Biology, 144(6), 1151-1155. (Primary review).
+Jones, B. W., & Nishiguchi, M. K. (2004). Counterillumination in the hawaiian bobtail squid, Euprymna scolopes Berry (Mollusca: Cephalopoda). *Marine Biology*, *144*(6), 1151-1155.
 
-Hellinger, J., Jägers, P., Donner, M., Sutt, F., Mark, M. D., Senen, B., ... & Herlitze, S. (2017). The flashlight fish Anomalops katoptron uses bioluminescent light to detect prey in the dark. PLoS One, 12(2), e0170489.
+Hellinger, J., Jägers, P., Donner, M., Sutt, F., Mark, M. D., Senen, B., ... & Herlitze, S. (2017). The flashlight fish Anomalops katoptron uses bioluminescent light to detect prey in the dark. *PLoS One*, *12*(2), e0170489.
 
-Heath-Heckman, E. A., Peyer, S. M., Whistler, C. A., Apicella, M. A., Goldman, W. E., & McFall-Ngai, M. J. (2013). Bacterial bioluminescence regulates expression of a host cryptochrome gene in the squid-vibrio symbiosis. MBio, 4(2), 10-1128. 
+Heath-Heckman, E. A., Peyer, S. M., Whistler, C. A., Apicella, M. A., Goldman, W. E., & McFall-Ngai, M. J. (2013). Bacterial bioluminescence regulates expression of a host cryptochrome gene in the squid-vibrio symbiosis. *MBio*, *4*(2), 10-1128. 
 
-Lupp, C., & Ruby, E. G. (2005). Vibrio fischeri uses two quorum-sensing systems for the regulation of early and late colonization factors. Journal of bacteriology, 187(11), 3620-3629.
+Lupp, C., & Ruby, E. G. (2005). Vibrio fischeri uses two quorum-sensing systems for the regulation of early and late colonization factors. *Journal of bacteriology*, *187*(11), 3620-3629.
 
-Nyholm, S. V., & McFall-Ngai, M. J. (2021). A lasting symbiosis: how the Hawaiian bobtail squid finds and keeps its bioluminescent bacterial partner. Nature Reviews Microbiology, 19(10), 666-679.
+Nyholm, S. V., & McFall-Ngai, M. J. (2021). A lasting symbiosis: how the Hawaiian bobtail squid finds and keeps its bioluminescent bacterial partner. *Nature Reviews Microbiology*, *19*(10), 666-679.
 
-Sparks, J. S., Dunlap, P. V., & Smith, W. L. (2005). Evolution and diversification of a sexually dimorphic luminescent system in ponyfishes (Teleostei: Leiognathidae), including diagnoses for two new genera. Cladistics, 21(4), 305-327.
+Sparks, J. S., Dunlap, P. V., & Smith, W. L. (2005). Evolution and diversification of a sexually dimorphic luminescent system in ponyfishes (Teleostei: Leiognathidae), including diagnoses for two new genera. *Cladistics*, *21*(4), 305-327.
 
-Wier, A. M., Nyholm, S. V., Mandel, M. J., Massengo-Tiassé, R. P., Schaefer, A. L., Koroleva, I., ... & McFall-Ngai, M. J. (2010). Transcriptional patterns in both host and bacterium underlie a daily rhythm of anatomical and metabolic change in a beneficial symbiosis. Proceedings of the National Academy of Sciences, 107(5), 2259-2264.
+Wier, A. M., Nyholm, S. V., Mandel, M. J., Massengo-Tiassé, R. P., Schaefer, A. L., Koroleva, I., ... & McFall-Ngai, M. J. (2010). Transcriptional patterns in both host and bacterium underlie a daily rhythm of anatomical and metabolic change in a beneficial symbiosis. *Proceedings of the National Academy of Sciences*, *107*(5), 2259-2264.
 
-Yount, T. A., Murtha, A. N., Cecere, A. G., & Miyashiro, T. I. (2023). Quorum sensing facilitates interpopulation signaling by Vibrio fischeri within the light organ of Euprymna scolopes. Israel journal of chemistry, 63(5-6), e202200061.
+Yount, T. A., Murtha, A. N., Cecere, A. G., & Miyashiro, T. I. (2023). Quorum sensing facilitates interpopulation signaling by Vibrio fischeri within the light organ of Euprymna scolopes. *Israel journal of chemistry*, *63*(5-6), e202200061.
 
 ## Dataset Summary:
 Phylogenetic Tree of Gene Sequences from National Center for Biotechnology Information (NCBI)
