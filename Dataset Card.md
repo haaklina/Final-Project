@@ -30,9 +30,7 @@ sequences.fasta: Contains around 600bais pairs (bp) gene sequences different tun
 ### Comparative Features of Bioluminescent Symbiosis in Euprymna scolopes and Leiognathid Fishes.
 
 
-| Characteristics  | Euprymna scolopes (Squid)| Leiognathids (Fishes) | References
-
-| Species Characteristics  | Euprymna scolopes (squid)  | Leiognathids (Fishes)   | Sources |
+| Species Characteristics  | *Euprymna scolopes* (squid)  | *Leiognathids* (Fishes)   | Sources |
 |---|---|---|---|
 | **Symbiont** | *Vibrio fischeri* | *Photbacterium leiognathi* | Dunlap et al., 2008; Heath-Heckman et al., 2013 |
 | **Light organ** | Ventral crypt-based | Ventral/sub-orbital shutters | Dunlap & Nakamura, 2011; Nyholm & McFall-Ngai, 2021 |
