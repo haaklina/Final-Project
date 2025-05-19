@@ -39,5 +39,5 @@ plot(biolum_tree,
 tiplabels(pch = 19, col = "blue", cex = 0.5)
 ```
 
-Bioluminescent groups are Ostracoda_bioluminescent, *Leiognathidae* (Ponyfish), *Euprymna_scolopes* (Squid), and *Anomalops_katoptron* (Flashlight fish). Non-luminous groups are included for contrast as sister taxa.
+Figure. 1 explanation: Bioluminescent groups are Ostracoda_bioluminescent, *Leiognathidae* (Ponyfish), *Euprymna_scolopes* (Squid), and *Anomalops_katoptron* (Flashlight fish). Non-luminous groups are included for contrast as sister taxa.
 
