@@ -1,5 +1,5 @@
 
-## Based on following output, the analysis is formulated in details
+## Based on following outputs, the analysis is formulated in details by using R codes:
 
 85% horizontal symbiont transmission (χ² = 21.4, p < 0.001).
 
