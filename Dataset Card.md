@@ -32,7 +32,7 @@ sequences.fasta: Contains around 600bais pairs (bp) gene sequences different tun
 
 | Characteristics  | Euprymna scolopes (Squid)| Leiognathids (Fishes) | References
 
-| Species Name  | Genetic Marker  | Tunicate Population   | Sources  |
+| Species Characteristics  | Euprymna scolopes (squid)  | Leiognathids (Fishes)   | Sources |
 |---|---|---|---|
 | *Pyura chilensis* | 614 bp DNA, CO1* gene | Solitary | Gao et al. 2023 |
 | *Styela plicata* | 624 bp DNA, COX1* gene | Solitary | Gao et al. 2023; Ramesh et al. 2021 |
