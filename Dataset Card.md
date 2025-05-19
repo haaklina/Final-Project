@@ -1,4 +1,6 @@
-# Phylogenetic Tree Project of Ascidians species.
+# Dataset title:
+
+Bioluminescent symbioses of fish and cephalopods with bacterial symbionts.
 
 # Data set source
 
