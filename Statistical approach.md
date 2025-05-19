@@ -10,7 +10,7 @@ Logistic model: Host phylogeny + habitat → symbiont type (AIC = 124.6).
 
 ## Title: Bioluminescent symbioses of fish and cephalopods with bacterial symbionts.
 
-### Bioluminescent groups are Ostracoda_bioluminescent, *Leiognathidae* (Ponyfish), *Euprymna_scolopes* (Squid), and *Anomalops_katoptron* (Flashlight fish). Non-luminous groups are included for contrast as sister taxa. So the codes have generated Phylogenetic Tree Bioluminescent and Non-luminous Marine Taxa.
+Bioluminescent groups are Ostracoda_bioluminescent, *Leiognathidae* (Ponyfish), *Euprymna_scolopes* (Squid), and *Anomalops_katoptron* (Flashlight fish). Non-luminous groups are included for contrast as sister taxa. So the codes have generated Phylogenetic Tree Bioluminescent and Non-luminous Marine Taxa.
 
 ```{r}
 options(repos = c(CRAN = "https://cran.rstudio.com"))
