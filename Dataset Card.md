@@ -1,5 +1,5 @@
 ## Dataset title: 
-Phylogenetic Tree Project of Ascidians species.
+Bioluminescent symbioses of fish and cephalopods with bacterial symbionts.
 
 ## Dataset citation and DOI:
 Gao, P., Khong, H. Y., Mao, W., Chen, X., Bao, L., Wen, X., & Xu, Y. (2023). Tunicates as sources of high-quality nutrients and bioactive compounds for food/feed and pharmaceutical applications: *A review. Foods*, *12*(19), 3684.
@@ -8,17 +8,13 @@ Ramesh, C., Tulasi, B. R., Raju, M., Thakur, N., & Dufossé, L. (2021). Marine n
 
 Wilson, E. R., Murphy, K. J., & Wyeth, R. C. (2022). Ecological review of the Ciona species complex. *The Biological Bulletin*, *242*(2), 153-171.
 
-Ciona wikipedia.
-
-https://seanet.stanford.edu/Urochordata
-
 
 ## Dataset Summary:
 Phylogenetic Tree of Gene Sequences from National Center for Biotechnology Information (NCBI)
-This dataset contains gene sequence data (nucleotide) obtained from the (NCBI) (https://www.ncbi.nlm.nih.gov/nuccore/?term=Ascidian) in FASTA format and a corresponding Nexus file used for generating phylogenetic trees. The purpose of this project is to construct and analyze phylogenetic relationships among Ascidian species using sequence data.
+This dataset contains gene sequence data (nucleotide) obtained from the (NCBI) (https://www.ncbi.nlm.nih.gov/nuccore/?term=marineclade taxa) in FASTA format and a corresponding Nexus file used for generating phylogenetic trees. The purpose of this project is to construct and analyze phylogenetic relationships among luminous and non-luminous species using sequence data.
 
 ## Data format:
-All data are DNA sequences in standard fasta files, grouped either by species (in the case of the animals) or in sequencing run (in the case of the ascidians samples).
+All data are DNA sequences in standard fasta files, grouped either by species (in the case of the animals) or in sequencing run.
 
 ## Languages:
 English
@@ -31,9 +27,11 @@ File Formats: .fasta for gene sequences, .nexus for phylogenetic tree generation
 sequences.fasta: Contains around 600bais pairs (bp) gene sequences different tunicate species (demo species collected: source: https://seanet.stanford.edu/Urochordata) in FASTA format.
 
 ## Documentation for Source Datasets
-### Tunicate datasets
+### Comparative Features of Bioluminescent Symbiosis in Euprymna scolopes and Leiognathid Fishes.
 
-| Species Name  | Genetic Marker  | Tunicate Population   | Sources  |
+
+| Characteristics  | Euprymna scolopes (Squid)| Leiognathids (Fishes) | References
+
 |---|---|---|---|
 | *Pyura chilensis* | 614 bp DNA, CO1* gene | Solitary | Gao et al. 2023 |
 | *Styela plicata* | 624 bp DNA, COX1* gene | Solitary | Gao et al. 2023; Ramesh et al. 2021 |
