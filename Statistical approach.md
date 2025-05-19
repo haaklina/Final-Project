@@ -6,19 +6,11 @@ ANOVA: Significant differences in light organ structure (p = 0.003).
 
 Logistic model: Host phylogeny + habitat → symbiont type (AIC = 124.6).
 
----
-Title: "Final Project"
-author: "Hasna Akther"
-date: "`r Sys.Date()`"
-output:
-  pdf_document: default
-  html_document: default
----
 
-# Title: Bioluminescent symbioses of fish and cephalopods with bacterial symbionts.
+## Title: Bioluminescent symbioses of fish and cephalopods with bacterial symbionts.
 
 
-# Brief description of dataset (with a link to completed GitHub repository for more details on my dataset card).
+## Brief description of dataset (with a link to completed GitHub repository for more details on my dataset card).
 
 https://github.com/haaklina/Final-Project/blob/main/Dataset%20Card.md
 
