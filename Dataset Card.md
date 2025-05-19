@@ -34,7 +34,7 @@ sequences.fasta: Contains around 600bais pairs (bp) gene sequences different tun
 
 | Species Characteristics  | Euprymna scolopes (squid)  | Leiognathids (Fishes)   | Sources |
 |---|---|---|---|
-| *Pyura chilensis* | 614 bp DNA, CO1* gene | Solitary | Gao et al. 2023 |
+| **Symbiont** | 614 bp DNA, CO1* gene | Solitary | Gao et al. 2023 |
 | *Styela plicata* | 624 bp DNA, COX1* gene | Solitary | Gao et al. 2023; Ramesh et al. 2021 |
 | *Synoicum kincaidi* | 658 bp DNA, COX1 gene | Colonial | https://seanet.stanford.edu/Urochordata |
 | *Ciona intestinalis* | 786 bp DNA, COX1 gene | Solitary | Wilson et al. 2022; Ramesh et al. 2021. |
