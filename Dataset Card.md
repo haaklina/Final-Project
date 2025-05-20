@@ -38,6 +38,11 @@ Structured tabular data (CSV or Excel format). Each row contains a host species 
 | *Euprymna scolopes* | Cephalopoda | *Vibrio fischeri*| 8 |
 | *Leiognathus equulus* | Teleost Fish | *Photobacterium sp.* | 9 |
 
+| Transmission Mode | Function | Habitat Depth | Data Types |  
+|---|---|---|---|
+| Horizontal | Camouflage | Shallow reef | Categorical: Clade, Symbiont, Transmission Mode, Function, Habitat|
+| Environmental | Communication | Coastal | Numerical: Light Organ Complexity Score |
+
 
 ## Languages:
 English
