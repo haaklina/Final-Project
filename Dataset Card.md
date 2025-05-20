@@ -34,7 +34,7 @@ This dataset supports quantitative comparative analysis through ANOVA to test di
 Structured tabular data (CSV or Excel format). Each row contains a host species and each column is a variable such as Clade, Symbiont, Complexity Score, Function.
 
 | Species Name  | Clade | Symbiont | Light Organ Complexity (1–10) |  
-|---|---|---|---|
+|---|---|---|---|---|---|---|
 | **Symbiont** | *Vibrio fischeri* | *Photbacterium leiognathi* | Dunlap et al., 2008; Heath-Heckman et al., 2013 |
 | **Light organ** | Ventral crypt-based | Ventral/sub-orbital shutters | Dunlap & Nakamura, 2011; Nyholm & McFall-Ngai, 2021 |
 | **Acquisition** | Environmental or horizontal | Environmental and Horizontal | Yount et al., 2023; Dunlap et al., 2008 |
