@@ -1,5 +1,5 @@
 ## Dataset title: 
-# Bioluminescent symbioses of fish and cephalopods with bacterial symbionts.
+Bioluminescent symbioses of fish and cephalopods with bacterial symbionts.
 
 ## Dataset citation and DOI:
 Dunlap, P. V., Davis, K. M., Tomiyama, S., Fujino, M., & Fukui, A. (2008). Developmental and microbiological analysis of the inception of bioluminescent symbiosis in the marine fish Nuchequula nuchalis (*Perciformes: Leiognathidae*). *Applied and environmental microbiology*, *74*(24), 7471-7481.
