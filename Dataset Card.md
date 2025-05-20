@@ -48,7 +48,7 @@ Structured tabular data (CSV or Excel format). Each row contains a host species 
 English
 
 ## Data Sources:
-Data principally source was from primary source like systematic literature review of primary research articles (2000–2024). Peer-reviewed journals (e.g., Applied and Environmental Microbiology, PNAS, Molecular Phylogenetics and Evolution, Marine Biology). DOIs and full citations recorded per entry for traceability.
+Principally data source was from primary literatures like systematic literature review of primary research articles (2000–2024). Peer-reviewed journals (e.g., Applied and Environmental Microbiology, PNAS, Molecular Phylogenetics and Evolution, Marine Biology). DOIs and full citations recorded per entry for traceability.
 
 ## Data Instances: 
 Statistical approach
@@ -80,7 +80,7 @@ Host groups were Cephalopods, Teleost Fishes, Ostracods, Lanternfishes, so forth
 Statistical Results (instances): Logistic regression showed that transmission mode significantly predicted complexity score p = 0.003 (p < 0.05) and ANOVA revealed clade-level differences in organ complexity (F-statistic and p-values included). 85% horizontal symbiont transmission (χ² = 21.4, p < 0.001). Logistic model: Host phylogeny + habitat → symbiont type (AIC = 124.6).
 
 ## Usage: 
-Analysis goals (phylogenetic tree construction).
+The data for this project consist of systematically extracted information from recent and foundational primary literature on bioluminescent symbioses.
 
 ## Limitations: 
-Biases or limitations (e.g., incomplete gene sequences).
+This project is based entirely on a systematic review of primary scientific literature, without the inclusion of new experimental or field-based data. As such, several limitations apply such as dependence on published data, Lack of experimental validation, taxonomic and geographic gap, variability in terminology and methods, as well as no direct quantitative meta-analysis. 
