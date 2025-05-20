@@ -15,9 +15,10 @@ Link: https://github.com/haaklina/Final-Project/blob/main/Dataset%20Card.md
 Link: https://github.com/haaklina/Final-Project/blob/main/Statistical%20Approach%20and%20analysis.md
 
 ## A single reproducible figure with associated statistics as applicable:
-Phylogenetic Tree Bioluminescent and Non−luminous Marine Taxa
+### Phylogenetic Tree Bioluminescent and Non−luminous Marine Taxa
 ![image](https://github.com/user-attachments/assets/c1336c84-0d67-434f-897c-e3311e70132e)
-Bioluminescent groups are Ostracoda_bioluminescent,Leiognathidae(Ponyfish),Euprymna_scolopes(Squid), andAnomalops_katoptron(Flashlight fish).  Non-luminous groups are included for contrast assister taxa.2
+
+Phylogenetic tree explains bioluminescent groups are Ostracoda_bioluminescent,Leiognathidae(Ponyfish),Euprymna_scolopes(Squid), andAnomalops_katoptron(Flashlight fish).  Non-luminous groups are included for contrast assister taxa.2
 
 
 ![image](https://github.com/user-attachments/assets/4410815f-e140-40c6-93c4-42c06b167f38)
