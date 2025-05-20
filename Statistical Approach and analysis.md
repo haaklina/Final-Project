@@ -9,7 +9,7 @@ ANOVA to compare light organ complexity by taxa.
 Chi-square tests for symbiosis acquisition mode (vertical vs. horizontal).
 
 ### Creating a phylogenetic tree showing the relationships among bioluminescence and non-luminescence marine taxa.
-Regariding tree analysis, I have overview following R codes:
+Regariding tree analysis, I have overviewed following R codes:
 
 ```{r}
 options(repos = c(CRAN = "https://cran.rstudio.com"))
