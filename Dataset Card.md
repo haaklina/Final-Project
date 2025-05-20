@@ -31,7 +31,16 @@ Each row in the dataset represents a host species, and the variables were Cephal
 This dataset supports quantitative comparative analysis through ANOVA to test differences in light organ complexity across clades, Chi-square tests to examine the relationship between transmission mode and host group and  Logistic regression to predict the likelihood of symbiotic acquisition based on habitat or clade.
 
 ## Data format:
-All data are DNA sequences in standard fasta files, grouped either by species (in the case of the animals) or in sequencing run.
+Structured tabular data (CSV or Excel format). Each row contains a host species and each column is a variable such as Clade, Symbiont, Complexity Score, Function.
+
+| Species Name  | Clade | Symbiont | Light Organ Complexity (1–10) | Trnasmission Mode | 
+|---|---|---|---|
+| **Symbiont** | *Vibrio fischeri* | *Photbacterium leiognathi* | Dunlap et al., 2008; Heath-Heckman et al., 2013 |
+| **Light organ** | Ventral crypt-based | Ventral/sub-orbital shutters | Dunlap & Nakamura, 2011; Nyholm & McFall-Ngai, 2021 |
+| **Acquisition** | Environmental or horizontal | Environmental and Horizontal | Yount et al., 2023; Dunlap et al., 2008 |
+| **Function** | Counterillumination campuflage | Communication, Mating, Camouflage | Jones & Nishiguchi, 2004; Hellinger et al., 2017 |
+| **Regulation** | Quorum sensing and host expulsion | Quorum sensing and muscular shutter | Wier et al., 2010; Lupp & Ruby, 2005 |
+| **Sexual dimorphism** | None reported | Common in males, enlarged light organs, transparent flanks | Sparks et al., 2005 |
 
 ## Languages:
 English
