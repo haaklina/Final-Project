@@ -71,6 +71,30 @@ summary(log_model)
 
 ## ANOVA: Compare Light Organ Complexity Across Clades
 
+```{r}
+anova_model <- aov(light_organ_complexity ~ clade, data = data)
+summary(anova_model)
+```
+## Chi-square Test: Vertical vs Horizontal Transmission Across Clades
+
+```{r}
+# Create contingency table
+trans_table <- table(data$clade, data$transmission)
+```
+```{r}
+# Run chi-square test
+chisq.test(trans_table)
+```
+```{r}
+library(ggplot2)
+
+# Barplot of transmission mode
+ggplot(data, aes(x = clade, fill = transmission)) +
+  geom_bar(position = "dodge") +
+  labs(title = "Transmission Mode by Clade", x = "Clade", y = "Count")
+```
+
+![image](https://github.com/user-attachments/assets/f3b991fc-ac66-4998-94d9-a617ae8ead0e)
 
 
 
