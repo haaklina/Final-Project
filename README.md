@@ -35,5 +35,5 @@ Logistic regression models symbiont type (binary) predicted by categorical varia
 
 The AIC result is 86.9 that close to reported 124.6.
 
-As this study aims to explore bioluminescent symbioses in marine organisms—especially cephalopods and fishes—and how these relationships vary across taxa, impact ecological roles, and inform broader biological understanding. Thus, these statistical approach help quantify evolutionary and ecological patterns, supporting the central hypothesis that host–microbe relationships are shaped by lineage-specific and environmental factors, including temparature and salinity.
+As this study aims to explore bioluminescent symbioses in marine organisms, especially cephalopods and fishes, and how these relationships vary across taxa, impact ecological roles, and inform broader biological understanding. Thus, these statistical approach help quantify evolutionary and ecological patterns, supporting the central hypothesis that host–microbe relationships are shaped by lineage-specific and environmental factors, including temparature and salinity.
 
