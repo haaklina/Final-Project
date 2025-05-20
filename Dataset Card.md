@@ -48,7 +48,7 @@ Structured tabular data (CSV or Excel format). Each row contains a host species 
 English
 
 ## Data Sources:
-Data retrieved from: NCBI (National Center for Biotechnology Information)
+Data principally source is from primary source like systematic literature review of primary research articles (2000–2024). Peer-reviewed journals (e.g., Applied and Environmental Microbiology, PNAS, Molecular Phylogenetics and Evolution, Marine Biology). DOIs and full citations recorded per entry for traceability.
 
 ## Data Instances: 
 Statistical approach
