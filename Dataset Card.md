@@ -23,8 +23,12 @@ Yount, T. A., Murtha, A. N., Cecere, A. G., & Miyashiro, T. I. (2023). Quorum se
 ## Dataset Summary:
 Introduction
 Investigating symbiotic bioluminescence between marine animals (e.g., fish, squid) and luminous bacteria (e.g., *Vibrio fischeri*)
-
 To investigate how host-symbiont specificity and bioluminescent traits vary across taxa and environments, particularly food web dynamics and climate change.
+This dataset compiles information from over 60 marine host species (including cephalopods, ponyfish, cardinalfish, ostracods, and lanternfish) known to engage in symbiotic bioluminescence with bacterial partners. Data were extracted from a systematic review of primary literature, including peer-reviewed articles published from 2000 to 2024. 
+
+Each row in the dataset represents a host species, and the variables were Cephalopoda, Teleostei, Crustacea as Taxonomic Group (Clade), Symbiotic Bacteria for Genus or species of light-producing symbiont (e.g., *Vibrio fischeri*, *Photobacterium leiognathi*). Transmission Mode considered for Horizontal, vertical, or mixed. Light Organ Complexity Score (1–10) is based on morphological and physiological traits (e.g., control mechanisms, reflectors, shutter systems), Habitat Depth included Shallow reef, midwater, or deep-sea and Bioluminescence Function considered Communication, camouflage, prey attraction, so forth.
+
+This dataset supports quantitative comparative analysis through ANOVA to test differences in light organ complexity across clades, Chi-square tests to examine the relationship between transmission mode and host group and  Logistic regression to predict the likelihood of symbiotic acquisition based on habitat or clade.
 
 ## Data format:
 All data are DNA sequences in standard fasta files, grouped either by species (in the case of the animals) or in sequencing run.
