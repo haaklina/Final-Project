@@ -14,5 +14,10 @@ Link: https://github.com/haaklina/Final-Project/blob/main/Dataset%20Card.md
 ## Statistical approach (with a link to your completed GitHub repository)
 Link: https://github.com/haaklina/Final-Project/blob/main/Statistical%20Approach%20and%20analysis.md
 
+## A single reproducible figure with associated statistics as applicable:
+![image](https://github.com/user-attachments/assets/4410815f-e140-40c6-93c4-42c06b167f38)
+
+![image](https://github.com/user-attachments/assets/c1336c84-0d67-434f-897c-e3311e70132e)
+
 
 
