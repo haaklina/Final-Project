@@ -18,6 +18,9 @@ Link: https://github.com/haaklina/Final-Project/blob/main/Statistical%20Approach
 
 ![image](https://github.com/user-attachments/assets/c1336c84-0d67-434f-897c-e3311e70132e)
 
+Bioluminescent groups are Ostracoda_bioluminescent,Leiognathidae(Ponyfish),Euprymna_scolopes(Squid), andAnomalops_katoptron(Flashlight fish).  Non-luminous groups are included for contrast assister taxa.2
+
+
 ![image](https://github.com/user-attachments/assets/4410815f-e140-40c6-93c4-42c06b167f38)
 
 Figure 1. Box plots displays the interquartile range (middle 50% of the data). Line in the box (Median): The median light organ complexity score for each clade. Whiskers extends to the minimum and maximum scores, excluding outliers. 
