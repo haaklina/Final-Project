@@ -19,6 +19,12 @@ Link: https://github.com/haaklina/Final-Project/blob/main/Statistical%20Approach
 
 ![image](https://github.com/user-attachments/assets/c1336c84-0d67-434f-897c-e3311e70132e)
 
-##  Interpretation of results:
+## Interpretation of results:
+Chi-square test assumes equal expected proportions (50/50) but observed is 85% horizontal and should produce a significant chi-square p-value = 3.359e-06. 85% horizontal symbiont transmission (chi-square = 21.4, p < 0.001)
 
+ANOVA checks if the continuous light organ measure differs between two groups such as luminous or non luminous and p-value is 0.003.
+
+Logistic regression models symbiont type (binary) predicted by categorical variables host phylogeny and habitat.
+
+The AIC result is 86.9 that close to reported 124.6.
 
