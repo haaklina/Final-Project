@@ -26,13 +26,11 @@ Figure 1. Box plots display the interquartile range (middle 50% of the data). Li
 
 Interpretation: Teleost Fishes have the highest median and widest range of complexity scores. It represents greater diversity in their light organ morphology. This aligns with their wide ecological niches and multiple bioluminescent strategies. Cephalopods (e.g., squid) indicate a moderately high median with a narrower range, indicating consistently complex light organs, possibly due to the conserved role of their ventral light organs in counterillumination. Crustaceans display a lower median but with some high outliers, suggesting fewer species with high complexity, maybe reflecting diversity in habitat and light organ usage (e.g., ostracods vs. krill). Cnidaria have the lowest scores overall, indicating that their bioluminescence likely involves simpler, non-symbiotic structures, such as photocytes or protein-based light production. Ostracoda intermediate median values, with a tighter range, demonstrating more conserved structures possibly due to their unique use of bioluminescence in courtship displays.
 ## Interpretation of results:
-Chi-square test assumes equal expected proportions (50/50) but observed is 85% horizontal and should produce a significant chi-square p-value = 3.359e-06. 85% horizontal symbiont transmission (chi-square = 21.4, p < 0.001)
+Chi-square test assumes equal expected proportions (50/50) but observed is 85% horizontal and should produce a significant chi-square p-value = 3.359e-06. 85% horizontal symbiont transmission (chi-square = 21.4, p < 0.001). Chi-square tests of transmission mode (horizontal vs. vertical) suggest ecological or phylogenetic constraints on how hosts acquire bacteria.
 
-ANOVA checks if the continuous light organ measure differs between two groups such as luminous or non luminous and p-value is 0.003.
+ANOVA checks if the continuous light organ measure differs between two groups such as luminous or non luminous and p-value is 0.003. ANOVA comparing light organ complexity across groups may reveal significant inter-clade differences, supporting adaptive evolution.
 
-Logistic regression models symbiont type (binary) predicted by categorical variables host phylogeny and habitat.
-
-The AIC result is 86.9 that close to reported 124.6.
+Logistic regression models symbiont type (binary) predicted by categorical variables host phylogeny and habitat influencing symbiotic acquisition. The AIC result is 86.9 that close to reported 124.6.
 
 As this study aims to explore bioluminescent symbioses in marine organisms, especially cephalopods and fishes, and how these relationships vary across taxa, impact ecological roles, and inform broader biological understanding. Thus, these statistical approach help quantify evolutionary and ecological patterns, supporting the central hypothesis that host–microbe relationships are shaped by lineage-specific and environmental factors, including temparature and salinity.
 
