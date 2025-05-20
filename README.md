@@ -19,5 +19,6 @@ Link: https://github.com/haaklina/Final-Project/blob/main/Statistical%20Approach
 
 ![image](https://github.com/user-attachments/assets/c1336c84-0d67-434f-897c-e3311e70132e)
 
+##  Interpretation of results:
 
 
