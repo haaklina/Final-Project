@@ -48,7 +48,7 @@ Structured tabular data (CSV or Excel format). Each row contains a host species 
 English
 
 ## Data Sources:
-Data principally source is from primary source like systematic literature review of primary research articles (2000–2024). Peer-reviewed journals (e.g., Applied and Environmental Microbiology, PNAS, Molecular Phylogenetics and Evolution, Marine Biology). DOIs and full citations recorded per entry for traceability.
+Data principally source was from primary source like systematic literature review of primary research articles (2000–2024). Peer-reviewed journals (e.g., Applied and Environmental Microbiology, PNAS, Molecular Phylogenetics and Evolution, Marine Biology). DOIs and full citations recorded per entry for traceability.
 
 ## Data Instances: 
 Statistical approach
@@ -70,11 +70,14 @@ Chi-square tests for symbiosis acquisition mode (vertical vs. horizontal).
 | **Sexual dimorphism** | None reported | Common in males, enlarged light organs, transparent flanks | Sparks et al., 2005 |
 
 ## Preprocessing and Data outputs
-85% horizontal symbiont transmission (χ² = 21.4, p < 0.001).
 
-ANOVA: Significant differences in light organ structure (p = 0.003).
+Data preprocessing inlcuded data extraction & compilation like extracted relevant data fields (species name, symbiont, light organ complexity, function, habitat, etc.) from primary literatures. I recorded values in a standardized format using Microsoft Excel or CSV.
+I encoded variable like categorical variables (e.g., Clade, Transmission Mode) were converted into factors for statistical analysis in R.
+Standardized terminology across studies (e.g., unified labels like "Horizontal" vs "Environmental transmission"). Missing entries for light organ complexity or symbiont type were labeled as “NA” and excluded from statistical tests when necessary. I Verified species classifications using WoRMS and FishBase to avoid taxonomic duplication and ensured all values were biologically realistic and internally consistent.
+Data outputs demonstrated summary statistics by considering hypthetically total species ~60 marine species.
+Host groups were Cephalopods, Teleost Fishes, Ostracods, Lanternfishes, so forth. Transmission modes were Horizontal (Environmental), Vertical (Maternal), Unknown.  Light organ complexity contained scores range from 2 to 10. I created plots for data visualizations which were Bar plots comparing light organ complexity across clades and Box plots of light organ complexity vs. transmission modes, and then Chi-square and ANOVA outputs highlighting differences between clades and characteristics.
 
-Logistic model: Host phylogeny + habitat → symbiont type (AIC = 124.6).
+Statistical Results (instances): Logistic regression showed that transmission mode significantly predicted complexity score p = 0.003 (p < 0.05) and ANOVA revealed clade-level differences in organ complexity (F-statistic and p-values included). 85% horizontal symbiont transmission (χ² = 21.4, p < 0.001). Logistic model: Host phylogeny + habitat → symbiont type (AIC = 124.6).
 
 ## Usage: 
 Analysis goals (phylogenetic tree construction).
